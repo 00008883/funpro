@@ -1,0 +1,9 @@
+\\peter\ZDrive\00008883\Desktop\FunPro\seminar7\WIUT\WIUT.DAL\bin\Debug\WIUT.DAL.dll.config
+\\peter\ZDrive\00008883\Desktop\FunPro\seminar7\WIUT\WIUT.DAL\bin\Debug\WIUT.DAL.dll
+\\peter\ZDrive\00008883\Desktop\FunPro\seminar7\WIUT\WIUT.DAL\bin\Debug\WIUT.DAL.pdb
+\\peter\ZDrive\00008883\Desktop\FunPro\seminar7\WIUT\WIUT.DAL\bin\Debug\System.Data.SqlServerCe.dll
+\\peter\ZDrive\00008883\Desktop\FunPro\seminar7\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.csprojAssemblyReference.cache
+\\peter\ZDrive\00008883\Desktop\FunPro\seminar7\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.csproj.CoreCompileInputs.cache
+\\peter\ZDrive\00008883\Desktop\FunPro\seminar7\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.csproj.CopyComplete
+\\peter\ZDrive\00008883\Desktop\FunPro\seminar7\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.dll
+\\peter\ZDrive\00008883\Desktop\FunPro\seminar7\WIUT\WIUT.DAL\obj\Debug\WIUT.DAL.pdb
